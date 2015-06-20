@@ -1,7 +1,7 @@
 ##Identifiers
 
 * subject
-	*30 Volunteers within an age bracket of 19-48 years. Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist.
+	* 30 Volunteers within an age bracket of 19-48 years. Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist.
 * activity
 	1. WALKING
 	2. WALKING_UPSTAIRS
@@ -82,3 +82,7 @@ For the purposes of this project, measurements on the mean and standard deviatio
 * "fBodyBodyAccJerkMagstd"  
 * "fBodyBodyGyroMagstd"      
 * "fBodyBodyGyroJerkMagstd" 
+
+##Source
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
