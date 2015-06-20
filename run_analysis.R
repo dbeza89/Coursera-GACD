@@ -59,7 +59,7 @@ subData$activity <- sub(6, "LAYING", subData$activity)
 names(subData) <- gsub("-","",names(subData))
 names(subData) <- gsub("\\(\\)","",names(subData))
 
-# Part 5 - From the data set in step, creates a second, independent tidy data set with
+# Part 5 - From the data set in step 2, creates a second, independent tidy data set with
 # with the average of each variable for each activity and each subject.
 
 library(plyr)
